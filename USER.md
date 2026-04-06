@@ -2,16 +2,22 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Oli Wy
+- **What to call them:** chef
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** Europe/Berlin
 - **Notes:**
+  - Juggles multiple projects.
+  - Wants coaching on planning and execution.
+  - Realist, direct, short answers preferred.
+  - Likes dry humor.
+  - Perfectionist, but actively trying to ship instead of overthink.
+  - Wants reminders to revisit what they want to be best at.
+  - Never run dangerous commands or deletions unless explicitly asked.
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- Eventbuddy: late co-founder and CTO; very important.
+- everwave: lead developer.
+- Gehaltsreporter: freelancer; potential share.
+- Smaller freelance projects.
